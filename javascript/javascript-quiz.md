@@ -831,8 +831,14 @@ class TaxCalculator {
 - [x] TaxCalculator.calculate(50);
 - [ ] new TaxCalculator().calculate(50);
 
-#### Q81. Which type of conditional statement a single expression/value as an input, and then look through a number of choices until they find one that matches that value, executing the corresponding code that goes along with it.
+#### Q81. Which type of conditional statement a single expression/value as an input, and then look through a number of choices until they find one that matches that value, executing the corresponding code that goes along with it?
 - [ ] if...else
 - [ ] else if
 - [x] switch
 - [ ] nested if...else
+
+#### Q82. Which variable defining keyword behaves differently in function scopes than it does in block scopes?
+- [ ] const
+- [ ] let
+- [x] var
+- [ ] int
